@@ -1,0 +1,26 @@
+#6) Crear un programa que pida al usuario un número e imprima por pantalla la tabla de 
+# multiplicar de dicho número. 
+numero = int(input("Ingrese un numero para ver su tabla de multiplicar: "))
+num1 = numero * 1
+num2 = numero * 2
+num3 = numero * 3
+num4 = numero * 4
+num5 = numero * 5
+num6 = numero * 6
+num7 = numero * 7
+num8 = numero * 8
+num9 = numero * 9
+num10 = numero * 10
+print(f"{numero} * 1 = {num1}")
+print(f"{numero} * 2 = {num2}")
+print(f"{numero} * 3 = {num3}")
+print(f"{numero} * 4 = {num4}")
+print(f"{numero} * 5 = {num5}")
+print(f"{numero} * 6 = {num6}")
+print(f"{numero} * 7 = {num7}")
+print(f"{numero} * 8 = {num8}")
+print(f"{numero} * 9 = {num9}")
+print(f"{numero} * 10 = {num10}")
+
+# Recuerdo que en PSINT ultilizamos "FOR" para esta estructura, pero como estamos en la unidad de
+# secuenciales, lo hice de esta manera. 
